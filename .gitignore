@@ -1,0 +1,51 @@
+# =====================================
+# Fraud Detection Project - .gitignore
+# =====================================
+
+# Dataset files
+creditcard.csv
+*.csv
+
+# University assignment reports
+Assignment_4_Report.docx
+*.docx
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables and secrets
+.env
+.env.*
+*.key
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# =====================================
+# Files to INCLUDE in GitHub
+# =====================================
+# fraud_detection.py
+# requirements.txt
+# README.md
+# results.json
+# anomaly_scores.png
+# .gitignore

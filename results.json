@@ -1,0 +1,19 @@
+{
+  "dataset_rows": 284807,
+  "fraud_rows": 492,
+  "test_rows": 56962,
+  "training_rows_used": 30000,
+  "fraud_prevalence": 0.001727485630620034,
+  "roc_auc": 0.9563327969060444,
+  "average_precision": 0.16442894594012852,
+  "confusion_matrix": [
+    [
+      56778,
+      86
+    ],
+    [
+      71,
+      27
+    ]
+  ]
+}
